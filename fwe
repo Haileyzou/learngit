@@ -1,0 +1,35 @@
+[33mcommit ab2a55693b5fcb9ac472be3025937e7b5210e1e5[m
+Author: hailey <zouhh@ctrip.com>
+Date:   Sun Dec 7 12:15:25 2014 +0800
+
+    git tracks changes
+
+[33mcommit de711fbfcc1023cb61e2e6880fb8cc2b9cce04c0[m
+Author: hailey <zouhh@ctrip.com>
+Date:   Sun Dec 7 12:10:39 2014 +0800
+
+    license change
+
+[33mcommit b71fec27e422911a6e71fb3bab06c88e6f9338d5[m
+Author: hailey <zouhh@ctrip.com>
+Date:   Sun Dec 7 12:03:42 2014 +0800
+
+    understand how stage works
+
+[33mcommit a4a41f82c94d21732d800434bc11d40f029a6421[m
+Author: hailey <zouhh@ctrip.com>
+Date:   Sun Dec 7 11:52:04 2014 +0800
+
+    append GPL
+
+[33mcommit 2c67af587c6e6a6a8b70ab46caed8bef86dd3ae2[m
+Author: hailey <zouhh@ctrip.com>
+Date:   Sun Dec 7 11:48:49 2014 +0800
+
+    add distributed
+
+[33mcommit 5306d2907ffd96ba8ecaaffeef882a122165317c[m
+Author: hailey <zouhh@ctrip.com>
+Date:   Sun Dec 7 11:42:44 2014 +0800
+
+    wrote a readme file
